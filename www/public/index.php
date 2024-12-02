@@ -18,7 +18,7 @@
             <input type="text" name="username"><br>
         </label>
         <label>Password<br>    
-            <input type="text" name="password"><br>
+            <input type="password" name="password"><br>
         </label>
         <input type="submit" value="Skicka" />
     </form>
